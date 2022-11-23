@@ -1,0 +1,7 @@
+.connect-button {
+    width: 99vw;
+    height: 7vh;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center
+}
